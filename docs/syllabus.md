@@ -21,4 +21,4 @@
 ## Grading
 
 * 8 homework assignments: 80%
-* 1 final project: 20%
+* Final project: 20%
