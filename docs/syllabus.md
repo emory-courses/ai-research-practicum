@@ -18,7 +18,7 @@
   : TBA <br>
   : Office Hours: &rarr; TBA
 
-# Grading
+## Grading
 
 * 8 homework assignments: 80%
 * 1 final project: 20%
