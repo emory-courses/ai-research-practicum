@@ -4,11 +4,11 @@
 |:-----:|:-------:|:----------:|:------------:|
 | 08/24 | Introduction | | |
 | 08/29 | Areas of AI | | |
-| 08/31 | Areas of AI | | HW1 |
+| 08/31 | Areas of AI | | [HW1](hw/hw1.md) |
 | 09/05 | **Labor Day** | | |
-| 09/07 | Research Exploration | | |
-| 09/12 | Research Exploration | | |
-| 09/14 | Research Exploration | | HW2 |
+| 09/07 | Exploration | | |
+| 09/12 | Exploration | | |
+| 09/14 | Exploration | | HW2 |
 | 09/19 | Topic Selection | | |
 | 09/21 | Topic Selection | | |
 | 09/26 | Topic Selection | | HW3 |
@@ -27,7 +27,7 @@
 | 11/09 | Experiment | | HW7 |
 | 11/14 | Analysis | | |
 | 11/16 | Analysis | | |
-| 11/21 | Analysis | | HW8 |
+| 11/21 | Analysis | | |
 | 11/23 | **Thanksgiving Recess** | | |
 | 11/28 | Project Presentation | | |
 | 11/30 | Project Presentation | | |
