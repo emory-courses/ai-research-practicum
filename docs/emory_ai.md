@@ -87,7 +87,7 @@
 
 ### Liang Zhao
 
-* Director of the Data Mining Lab
+* Director of the Machine Intelligence for Complex Data Lab
 * Publications: [Google Scholar](https://scholar.google.com/citations?user=qnvyqtwAAAAJ), [Semantic Scholar](https://www.semanticscholar.org/author/Liang-Zhao/145927745)
 * Webpage: https://cs.emory.edu/~lzhao41
 * Joined Emory in Fall 2020
