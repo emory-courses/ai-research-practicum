@@ -26,3 +26,7 @@
 * 1 presentation: 10%
 * 7 homework assignments: 70%
 * Final project: 30%
+
+# Note
+
+* Bring your laptop, there will be lots of in-class exercises.
