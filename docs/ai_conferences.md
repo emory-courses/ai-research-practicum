@@ -10,10 +10,6 @@
   : [2022](https://ijcai-22.org)
   , [2021](https://ijcai-21.org)
   , [2020](https://ijcai-20.org)
-<!-- * International Conference on Artificial Intelligence and Statistics (AISTATS)<br>
-  : [2022](http://aistats.org/aistats2022/)
-  , [2021](http://aistats.org/aistats2021/)
-  , [2020](http://aistats.org/aistats2020/) -->
 
 
 ## Computer Vision
@@ -31,7 +27,7 @@
   , [2020](https://waset.org/computational-vision-conference-in-june-2020-in-venice)
 
 
-## Data Mining
+## Data Mining and Management
 
 * ACM International Conference on Information and Knowledge Management (CIKM)<br>
   : [2022](https://www.cikm2022.org)
@@ -41,11 +37,10 @@
   : [2022](https://www.kdd.org/kdd2022/)
   , [2021](https://www.kdd.org/kdd2021/)
   , [2020](https://www.kdd.org/kdd2020/)
-* IEEE International Conference on Data Engineering (ICDE)<br>
-  : [2022](https://icde2022.ieeecomputer.my)
-  , [2021](https://icde2021.gr)
-  , [2020](https://icde.utdallas.edu)
-
+* IEEE International Conference on Data Mining (ICDM)<br>
+  : [2022](https://icdm22.cse.usf.edu)
+  , [2021](https://icdm2021.auckland.ac.nz)
+  , [2020](https://icdm.zhonghuapu.com)
 
 ## Human Computer Interaction
 
@@ -109,3 +104,14 @@
 * [Association for the Advancement of Artificial Intelligence (AAAI)](https://aaai.org)
 * [Association for Computational Linguistics (ACL)](https://www.aclweb.org)
 * [Computer Vision Foundation (CVF)](https://www.thecvf.com)
+
+
+<!-- * IEEE International Conference on Data Engineering (ICDE)<br>
+  : [2022](https://icde2022.ieeecomputer.my)
+  , [2021](https://icde2021.gr)
+  , [2020](https://icde.utdallas.edu) -->
+
+<!-- * International Conference on Artificial Intelligence and Statistics (AISTATS)<br>
+  : [2022](http://aistats.org/aistats2022/)
+  , [2021](http://aistats.org/aistats2021/)
+  , [2020](http://aistats.org/aistats2020/) -->

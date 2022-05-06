@@ -3,7 +3,7 @@
 | Date  |  Topic  |  Resource  |  Assignment  |
 |:-----:|:-------:|:----------:|:------------:|
 | 08/24 | Introduction | | |
-| 08/29 | Areas of AI | | |
+| 08/29 | Areas of AI | [md](ai_areas.md) | |
 | 08/31 | Areas of AI | | [HW1](hw/hw1.md) |
 | 09/05 | **Labor Day** | | |
 | 09/07 | Exploration | | |
