@@ -6,14 +6,14 @@
   : [2022](https://aaai.org/Conferences/AAAI-22/)
   , [2021](https://aaai.org/Conferences/AAAI-21/)
   , [2020](https://aaai.org/Conferences/AAAI-20/)
-* International Conference on Artificial Intelligence and Statistics (AISTATS)<br>
-  : [2022](http://aistats.org/aistats2022/)
-  , [2021](http://aistats.org/aistats2021/)
-  , [2020](http://aistats.org/aistats2020/)
 * International Joint Conference on Artificial Intelligence (IJCAI)<br>
   : [2022](https://ijcai-22.org)
   , [2021](https://ijcai-21.org)
   , [2020](https://ijcai-20.org)
+<!-- * International Conference on Artificial Intelligence and Statistics (AISTATS)<br>
+  : [2022](http://aistats.org/aistats2022/)
+  , [2021](http://aistats.org/aistats2021/)
+  , [2020](http://aistats.org/aistats2020/) -->
 
 
 ## Computer Vision
@@ -45,6 +45,14 @@
   : [2022](https://icde2022.ieeecomputer.my)
   , [2021](https://icde2021.gr)
   , [2020](https://icde.utdallas.edu)
+
+
+## Human Computer Interaction
+
+* ACM CHI Conference on Human Factors in Computing Systems (CHI)<br>
+  : [2022](https://chi2022.acm.org)
+  , [2021](https://chi2021.acm.org)
+  , [2020](https://chi2020.acm.org)
 
 
 ## Information Retrieval
