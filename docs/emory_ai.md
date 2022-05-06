@@ -13,7 +13,7 @@
 
 * Director of the [Assured Information Management and Sharing Lab](http://www.cs.emory.edu/site/aims)
 * Publications: [Google Scholar](https://scholar.google.com/citations?user=jJ8BLgsAAAAJ), [Semantic Scholar](https://www.semanticscholar.org/author/Li-Xiong/145719374)
-* Webpage: http://cs.emory.edu/~lxiong/
+* Webpage: http://cs.emory.edu/~lxiong
 * Joined Emory in Fall 2005
 
 
@@ -23,7 +23,7 @@
 
 * Director of the [Natural Language Processing Lab](http://emorynlp.org)
 * Publications: [Google Scholar](https://scholar.google.com/citations?user=xdddblAAAAAJ), [Semantic Scholar](https://www.semanticscholar.org/author/Jinho-D.-Choi/4724587)
-* Webpage: http://cs.emory.edu/~choi/
+* Webpage: http://cs.emory.edu/~choi
 * Joined Emory in Fall 2014
 
 ### Joyce Ho
