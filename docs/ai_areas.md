@@ -1,10 +1,5 @@
 # Areas of Artificial Intelligence
 
-## Questions
-
-* What is Artificial Intelligence (AI)?
-* What is the role of AI at the moment?
-
 ## AI Conferences
 
 * Go to the [group page](https://canvas.emory.edu/courses/105451/groups) on Canvas, click the **AI Conferences** tab, and select an area.
@@ -16,5 +11,7 @@
 ## AI Research at Emory CS
 
 * Go to the [group page](https://canvas.emory.edu/courses/105451/groups) on Canvas, click the **Emory CS** tab, and select a professor.
-* Visit the [professor](ai_emorycs.md)'s webpages and interpret which research field(s) the professor focuses on.
-* Analyze the professor's publications to understand what research topics the professor is actively working on.
+* Visit the [professor](ai_emorycs.md)'s webpages and check which research field(s) the professor focuses on.
+* Read the professor's publications to understand what research projects the professor is actively working on.
+* For each group member, list two potential research ideas that you want to work with the professor.
+* Make slides for 5-min presentations.
