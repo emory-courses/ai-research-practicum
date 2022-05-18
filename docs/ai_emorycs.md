@@ -47,7 +47,7 @@
 * Webpage: https://cs.ucf.edu/~feiliu
 * Joined Emory in Fall 2022
 
-### Andreas Zufle
+### Andreas Züfle
 
 * Director of the TBA
 * Publications: [Google Scholar](https://scholar.google.com/citations?user=s-FDyf4AAAAJ), [Semantic Scholar](https://www.semanticscholar.org/author/Andreas-Züfle/3221975)
