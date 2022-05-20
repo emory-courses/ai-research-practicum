@@ -2,9 +2,7 @@
 
 ## AI Conferences
 
-* 
-
-Go to the [group page](https://canvas.emory.edu/courses/105451/groups) on Canvas, click the **AI Conferences** tab, and select an area.
+* Go to the [group page](https://canvas.emory.edu/courses/105451/groups) on Canvas, click the **AI Conferences** tab, and select an area.
 * Visit [conferences](ai_conferences.md) in the selected area and categorize relevant fields by reading their programs and proceedings.
 * Analyze trending research fields and check the state-of-the-art approaches.
 * For each group member, list two potential research ideas based on the literature survey.

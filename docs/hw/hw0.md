@@ -1,4 +1,4 @@
-# HW-0: Getting Started
+# HW0: Getting Started
 
 ## Overleaf
 
@@ -13,8 +13,9 @@
 
 ## Latex
 
+* Read the [Latex Guidelines](../latex_guidelines.md).
 * Add a reference to `custom.bib` and cite it in Section 2.
-* Add an image as a figure that properly expands to the full page in Section 3.
+* Add a PDF image as a figure that properly expands to the full page in Section 3.
 * Add a table with two sub-tables in Section 4.
 * Properly reference Section 1, Table 1, and Figure 1 in Section 5.
 
