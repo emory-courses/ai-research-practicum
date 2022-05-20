@@ -2,11 +2,11 @@
 
 ## Exercises
 
-* Go to the [group page](https://canvas.emory.edu/courses/105451/groups) on Canvas, click the **Emory CS** tab, and select a professor.
-* Visit the [professor](ai_emorycs.md)'s webpages and check which research field(s) the professor focuses on.
+* Go to `[People - Emory CS]` on Canvas and select a professor.
+* Visit the professor's webpages and check which research field(s) the professor focuses on.
 * Read the professor's publications and understand what research projects the professor is actively working on.
 * For each group member, list two potential research ideas that you want to work with the professor.
-* Make slides for 5-min presentations.
+* Submit slides for a 5-min presentation (per group) summarizing above activities.
 
 ---
 
