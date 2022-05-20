@@ -23,7 +23,7 @@
 
 ## Grading
 
-* 1 presentation: 10%
+* 2 presentations: 10%
 * 7 homework assignments: 70%
 * Final project: 30%
 
