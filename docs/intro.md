@@ -30,6 +30,20 @@ This course is designed to equip students with essential foundation to conduct r
 This course satisfies the [**Continuing Communication Requirement**](https://secure.web.emory.edu/college/senate/committees/curriculum-and-educational-policy/satisfying-communication-requirement-guidelines.html).
 :::
 
+## Chapters
+
+1. [Getting Started](/chapters/getting_started/syllabus)
+1. [Exploration](/chapters/exploration/research_areas)
+1. [Team Formation](/chapters/team_formation/speed_dating)
+1. Introduction
+1. Related Work
+1. Approach
+1. Experiments
+1. Analysis
+1. Conclusion & Abstract
+1. Presentation Preparation
+1. Peer Review
+
 ## Projects
 
 * [Fall 2026](/projects/fall-2026),
