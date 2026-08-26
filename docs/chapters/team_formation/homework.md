@@ -33,6 +33,6 @@ LaTeX is widely regarded as the gold standard for writing scientific articles in
 
 #### Task 2: Research Paper (1 point)
 
-* **Title** (0.2 points): Is the title specific and descriptive enough for anyone to have a good sense of the team's project?
+* **Title** (0.2 points): Does the title clearly and specifically convey what the project is about?
 * **Author Information** (0.3 points): Is the author information complete and accurate for all team members?
 * **PDF Submission** (0.5 points): Was the PDF exported and submitted on Canvas by the deadline?
