@@ -91,6 +91,13 @@ figcaption {
   font-size: 0.85rem;
 }
 
+/* Sidebar section separator */
+.sidebar-sep {
+  margin: 0.5rem 0.75rem;
+  border: none;
+  border-top: 1px solid var(--ifm-color-emphasis-300);
+}
+
 /* Dark mode overrides */
 [data-theme='dark'] {
   --ifm-color-primary: #25c2a0;

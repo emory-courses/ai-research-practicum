@@ -123,6 +123,11 @@ const sidebars = {
       ],
     },
     {
+      type: 'html',
+      value: '<hr class="sidebar-sep" />',
+      defaultStyle: true,
+    },
+    {
       type: 'category',
       label: 'LaTeX Guidelines',
       items: [
