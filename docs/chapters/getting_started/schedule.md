@@ -11,7 +11,7 @@ description: 'Fall 2026'
 | 08/31 | [Research Areas](/chapters/exploration/research_areas) | |
 | 09/02 | [Research Topics](/chapters/exploration/research_topics) | [HW1: Exploration](/chapters/exploration/homework) |
 | 09/07 | **Labor Day** | |
-| 09/09 | [Speed Dating](/chapters/team_formation/speed_dating) | HW2: Team Formation |
+| 09/09 | [Speed Dating](/chapters/team_formation/speed_dating) | [HW2: Team Formation](/chapters/team_formation/homework) |
 | 09/14 | Introduction | |
 | 09/16 | (continue) | HW3: Introduction (W) |
 | 09/21 | PT1-1: Introduction | |
