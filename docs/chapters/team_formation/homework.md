@@ -21,7 +21,7 @@ description: 'HW2: Team Formation'
 6. Share the Overleaf project with your teammates and instructors, granting them "Can Edit" permissions (refer to the instructor information in the [syllabus](/chapters/getting_started/syllabus)).
 7. Export your paper as a PDF file and submit it to **HW2: Team Formation** on Canvas.
 
-:::info
+:::tip
 LaTeX is widely regarded as the gold standard for writing scientific articles in many fields, including computer science. In this course, you will be required to use LaTeX to write your research papers. If you are not already familiar with LaTeX, it is essential that you review the [LaTeX Guidelines](/supplementary/latex_guidelines/overview) and take the time to become comfortable with its usage.
 :::
 

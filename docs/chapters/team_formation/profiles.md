@@ -13,7 +13,34 @@ The following section contains the profiles of your potential project partners, 
 <Tabs>
 <TabItem value="2026" label="2026" default>
 
-TBA
+* Ramlah Amer
+* [Peter Chen](https://drive.google.com/file/d/1SWiwc6zsPe-kYOe6AkHLkQU4A4ccDyX2/view?usp=sharing)
+* [Kevin Cho](https://drive.google.com/file/d/1IsLtTDB13fGV1xYHvyShwaEkQjyWxjts/view?usp=sharing)
+* [Mason Chyu](https://drive.google.com/file/d/12oARHDpMtB1aK2IRuKBuJGu7lZ7VO5bx/view?usp=sharing)
+* [Peace Cyebukayire](https://drive.google.com/file/d/19JDSi__GA3PKMn7DBuUAhUAkdqgBExWW/view?usp=sharing)
+* [Leonardo De Farias](https://drive.google.com/file/d/1BrswCVqx8AEv_B6BYJGMiLR0mzvq7qLs/view?usp=sharing)
+* [Jake Floch](https://drive.google.com/file/d/1rYt5DMvV4seVT7bD18uOspNw5gXRTgF6/view?usp=sharing)
+* [Esther Fu](https://drive.google.com/file/d/1bJe5hzTY37x-KO8LrYER-Jd4FKOqtp5Y/view?usp=sharing)
+* Miya Fu
+* [Kenneth Hou](https://drive.google.com/file/d/1Dcud5pcqh9attR8IeLqC_1eRwUxmuo2U/view?usp=sharing)
+* [Roger Jin](https://drive.google.com/file/d/1YE6st3fIXdOibSJVp-gmDQv_1zKPnR6h/view?usp=sharing)
+* [Kyeongmin Kim](https://drive.google.com/file/d/1W1HB0v82P_-fRRzXfITVpiPgaTlx0W5p/view?usp=sharing)
+* [Taeeun Kim](https://drive.google.com/file/d/1A9qcgS-uix8EPt1DjyXrL6hy9rL6W3DZ/view?usp=sharing)
+* [Alex Lautin](https://drive.google.com/file/d/1TAi-AtRUkuY8BJmdVpLFjjNrjY8dB9sl/view?usp=sharing)
+* [Jay Lee](https://drive.google.com/file/d/1RUCYGXWKqJQJn1f9Q8l3MIw5_EPu1OXL/view?usp=sharing)
+* [Emma Li](https://drive.google.com/file/d/1GKJhSb_JSM5R_ySccMIPc_fwSI7iNG_1/view?usp=sharing)
+* [Victor Li](https://drive.google.com/file/d/1wP4QIMaxaTYwNlivZ9v8jPg_TMXzlMYB/view?usp=sharing)
+* [Hector Liao](https://drive.google.com/file/d/1NiMA2OMOtBIV5j9gRdB08oLJm68jbbdJ/view?usp=sharing)
+* [Timothy Lim](https://drive.google.com/file/d/1xdFM0_othlwBhB6JjoNYHIuncIG0NtAy/view?usp=sharing)
+* [Mingxun (Jasper) Miao](https://drive.google.com/file/d/1uGCS6SieCKWHP_a2QtqZdZgtjCEw0NQ-/view?usp=sharing)
+* [Alex Myrick](https://drive.google.com/file/d/128bzeNHYYSlaKRuuMKsnAeE58Pm-WJu-/view?usp=sharing)
+* [Nicky Ren](https://drive.google.com/file/d/1cfvj_yt_aoa2ff-8yeJIlh17grFlD-3O/view?usp=sharing)
+* [Eugene Shin](https://drive.google.com/file/d/1BTitxFBuOw8sgIRmse86fxtQIAmjfh9b/view?usp=sharing)
+* [Jason Sun](https://drive.google.com/file/d/11ABGLeCWEenIXpSqex-5iVLO02i2WTvr/view?usp=sharing)
+* [Mandy Sun](https://drive.google.com/file/d/1D1hHM4h06viZS8PR9uUbhUs8VBYW-yLo/view?usp=sharing)
+* Mingke Tian
+* [Yida Xu](https://drive.google.com/file/d/1hyd088OzGoUgdaCgpzOpPHpTh2ehDNWo/view?usp=sharing)
+* [Jasmine Zhou](https://drive.google.com/file/d/1hLMv1-0iWP5KN_NZjSpyXg5-eey-fFGM/view?usp=sharing)
 
 </TabItem>
 <TabItem value="2025" label="2025">
