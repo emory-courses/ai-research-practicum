@@ -23,10 +23,10 @@ Provide a breakdown of each team member's contribution to this writing on Canvas
 
 ## Rubric
 
-* **Broad Impacts** (1 point)
+* **Broad Impacts** (1.5 points)
   * Articulate the significance and relevance of your research topic.
   * Explain why your study matters in a broader context.
-* **Intellectual Merit** (1 point)
+* **Intellectual Merit** (1.5 points)
   * Outline the key challenges or complexities of your research problem.
   * Highlight any gaps in current knowledge that your study addresses.
 * **Approach** (1 point)
@@ -39,5 +39,5 @@ Provide a breakdown of each team member's contribution to this writing on Canvas
   * State the novel contributions of your work to the field.
   * Emphasize how your research advances current understanding.
 * **References** (0.5 points)
-  * Appropriately cite relevant literature and prior work.
-  * Use in-text citations to support your claims and contextualize your research.
+  * A references list is included at the end, listing every work cited in the section.
+  * Entries are complete and correctly formatted (e.g., via BibTeX).

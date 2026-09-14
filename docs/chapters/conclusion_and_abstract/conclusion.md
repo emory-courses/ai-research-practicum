@@ -6,7 +6,7 @@ title: Conclusion
 
 ## Summary
 
-The summary in the conclusion should be distinguished from the [abstract](/chapters/conclusion_and_abstract/title-and-abstract) and or the [overview](/chapters/introduction/section-overview) in the introduction in the sense that it should be conclusive.
+The summary in the conclusion should be distinguished from the [abstract](/chapters/conclusion_and_abstract/title-and-abstract) and or the [framework](/chapters/introduction/framework) in the introduction in the sense that it should be conclusive.
 
 First, indicate the overall contribution of your system:
 

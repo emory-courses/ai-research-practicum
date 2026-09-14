@@ -46,11 +46,8 @@ const sidebars = {
       type: 'category',
       label: 'Introduction',
       items: [
-        'chapters/introduction/overview',
         'chapters/introduction/task_selection',
-        'chapters/introduction/motivation',
-        'chapters/introduction/section-overview',
-        'chapters/introduction/exercise',
+        'chapters/introduction/framework',
         'chapters/introduction/homework',
       ],
     },

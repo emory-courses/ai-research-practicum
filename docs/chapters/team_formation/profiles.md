@@ -38,7 +38,7 @@ The following section contains the profiles of your potential project partners, 
 * [Eugene Shin](https://drive.google.com/file/d/1BTitxFBuOw8sgIRmse86fxtQIAmjfh9b/view?usp=sharing)
 * [Jason Sun](https://drive.google.com/file/d/11ABGLeCWEenIXpSqex-5iVLO02i2WTvr/view?usp=sharing)
 * [Mandy Sun](https://drive.google.com/file/d/1D1hHM4h06viZS8PR9uUbhUs8VBYW-yLo/view?usp=sharing)
-* Mingke Tian
+* [Mingke Tian](https://drive.google.com/file/d/1-WWSSe8bUSpF1xgp5KTNxLLYeMZU1dd5/view?usp=share_link)
 * [Yida Xu](https://drive.google.com/file/d/1hyd088OzGoUgdaCgpzOpPHpTh2ehDNWo/view?usp=sharing)
 * [Jasmine Zhou](https://drive.google.com/file/d/1hLMv1-0iWP5KN_NZjSpyXg5-eey-fFGM/view?usp=sharing)
 
