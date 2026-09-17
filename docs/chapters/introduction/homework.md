@@ -40,4 +40,4 @@ Provide a breakdown of each team member's contribution to this writing on Canvas
   * Emphasize how your research advances current understanding.
 * **References** (0.5 points)
   * A references list is included at the end, listing every work cited in the section.
-  * Entries are complete and correctly formatted (e.g., via BibTeX).
+  * Entries are complete and correctly formatted via BibTeX.
