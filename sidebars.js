@@ -55,9 +55,8 @@ const sidebars = {
       type: 'category',
       label: 'Related Work',
       items: [
-        'chapters/related_work/overview',
         'chapters/related_work/literature-review',
-        'chapters/related_work/exercise',
+        'chapters/related_work/ai-ethics',
         'chapters/related_work/homework',
       ],
     },

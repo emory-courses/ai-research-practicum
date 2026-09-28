@@ -41,3 +41,7 @@ Provide a breakdown of each team member's contribution to this writing on Canvas
 * **Distinction** (2 points)
   * Clearly articulates how the current work differs from previous research.
   * Highlights the unique contributions or advancements of the current study.
+
+:::danger Zero tolerance for AI-generated references
+Do not use AI tools to find, generate, format, or organize your references. A single hallucinated or fabricated citation results in **a zero for the entire team on this homework**, no matter who wrote that part. See [AI Ethics](/chapters/related_work/ai-ethics) before you start writing.
+:::

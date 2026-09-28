@@ -16,8 +16,8 @@ description: 'Fall 2026'
 | 09/16 | (continue) | [HW3: Introduction](/chapters/introduction/homework) (W) |
 | 09/21 | PT1-1: Introduction | |
 | 09/23 | PT1-2: Introduction | |
-| 09/28 | Related Work | |
-| 09/30 | (continue) | HW4: Related Work (W) |
+| 09/28 | [Related Work](/chapters/related_work/literature-review) | |
+| 09/30 | (continue) | [HW4: Related Work](/chapters/related_work/homework) (W) |
 | 10/05 | PT2-1: Related Work | |
 | 10/07 | PT2-2: Related Work | |
 | 10/12 | **Fall Break** | |

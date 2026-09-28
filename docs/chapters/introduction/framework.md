@@ -37,7 +37,7 @@ Identify the challenges present in this task that you aim to enhance, and provid
 > Despite the great advancement, CHALLENGE is challenging because REASONS (CITATIONS).
 
 :::info
-The scope of references here should encompass a broader range than the ones cited in the [Related Work](/chapters/related_work/overview) section.
+The scope of references here should encompass a broader range than the ones cited in the [Related Work](/chapters/related_work/literature-review) section.
 :::
 
 Concisely describe the major approaches that have been developed to tackle these challenges and cite the corresponding works:
