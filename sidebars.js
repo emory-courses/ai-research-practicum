@@ -62,6 +62,13 @@ const sidebars = {
     },
     {
       type: 'category',
+      label: 'Pivot Checkpoint',
+      items: [
+        'chapters/pivot_checkpoint/overview',
+      ],
+    },
+    {
+      type: 'category',
       label: 'Approach',
       items: [
         'chapters/approach/overview',

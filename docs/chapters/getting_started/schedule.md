@@ -21,7 +21,7 @@ description: 'Fall 2026'
 | 10/05 | PT2-1: Related Work | |
 | 10/07 | PT2-2: Related Work | |
 | 10/12 | **Fall Break** | |
-| 10/14 | Pivot Checkpoint | |
+| 10/14 | [Pivot Checkpoint](/chapters/pivot_checkpoint/overview) | |
 | 10/19 | Approach | |
 | 10/21 | (continue) | HW5: Approach (W) |
 | 10/26 | PT3-1: Approach | |
