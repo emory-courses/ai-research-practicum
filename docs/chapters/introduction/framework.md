@@ -63,7 +63,7 @@ Both Broad Impact and Intellectual Merit should use citations as evidence rather
 
 ## Approach
 
-Having established the gap in Intellectual Merit, elaborate on your approach and reference the [Approach](/chapters/approach/overview) section:
+Having established the gap in Intellectual Merit, elaborate on your approach and reference the [Approach](/chapters/approach/algorithms) section:
 
 > In this paper, we present APPROACH to improve CHALLENGE (Section #).
 

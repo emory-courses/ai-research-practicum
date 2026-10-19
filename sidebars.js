@@ -71,7 +71,6 @@ const sidebars = {
       type: 'category',
       label: 'Approach',
       items: [
-        'chapters/approach/overview',
         'chapters/approach/algorithms',
         'chapters/approach/models',
         'chapters/approach/resources',

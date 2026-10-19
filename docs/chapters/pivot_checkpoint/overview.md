@@ -5,7 +5,7 @@ description: 'An in-class checkpoint to test project feasibility, check team che
 
 # Pivot Checkpoint
 
-As you have pasted the planning phase, [Introduction](/chapters/introduction/task_selection) and [Related Work](/chapters/related_work/literature-review), the next chapters, [Approach](/chapters/approach/overview), [Experiments](/chapters/experiments/overview), and [Analysis](/chapters/analysis/overview), require real implementation. This **Pivot Checkpoint** is a single, structured class hour where your team takes an honest look at where the project stands and makes one explicit decision: **stay**, **narrow**, or **shift**.
+As you have pasted the planning phase, [Introduction](/chapters/introduction/task_selection) and [Related Work](/chapters/related_work/literature-review), the next chapters, [Approach](/chapters/approach/algorithms), [Experiments](/chapters/experiments/overview), and [Analysis](/chapters/analysis/overview), require real implementation. This **Pivot Checkpoint** is a single, structured class hour where your team takes an honest look at where the project stands and makes one explicit decision: **stay**, **narrow**, or **shift**.
 
 :::info
 A pivot is not a failure. Research projects rarely survive first contact with data and compute unchanged. The failure mode this checkpoint prevents is **drift**: continuing for weeks on a plan that no one on the team still believes in.
@@ -153,7 +153,7 @@ Then complete these items:
 2. **Minimum viable result:** the smallest experiment that would still make a defensible paper.
 3. **Stretch goals** you will attempt only if the minimum is done.
 4. **Plan B:** what you will cut first if things slip again.
-5. **Milestones** for the next two weeks, leading to the [Approach](/chapters/approach/overview) presentation.
+5. **Milestones** for the next two weeks, leading to the [Approach](/chapters/approach/algorithms) presentation.
 
 **Discussion:** Each team states its decision (Stay, Narrow, or Shift) in one word. We look at the split and discuss:
 

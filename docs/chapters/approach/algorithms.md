@@ -5,6 +5,14 @@ description: 'This chapter discusses how to develop new algorithms and write the
 
 # Algorithm Development
 
+An algorithm is a precise, step-by-step procedure that turns an input into an output. Describing yours well means stating the objective, defining the input and output, writing the procedure in pseudocode, and explaining each step so a reader could reproduce it. It also means starting simple: a baseline gives you a reference point, and an advanced algorithm shows what your idea adds beyond it.
+
+This page walks through that process on a running example, converting a Reddit post and its comments into a dialogue. For each algorithm, you will state its objective, show its output, and then present the pseudocode with an overview and descriptions of its helper methods. Apply the same structure to your own task.
+
+:::tip
+Typically, it is better to write the approach section as abstract as possible so your methods become generalizable for many tasks. For example, even if you use [BERT](https://aclanthology.org/N19-1423/) as an encoder but your approach can take any transformer as an encoder, it is better to denote that your method uses a transformer as an encoder instead of BERT.
+:::
+
 ## Task
 
 Your task is to design an algorithm that takes a post with the title and its comments with replies from a discussion forum (e.g., Reddit) and converts them into a multi-turn one-to-one dialogue.

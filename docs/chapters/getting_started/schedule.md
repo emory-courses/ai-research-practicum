@@ -22,8 +22,8 @@ description: 'Fall 2026'
 | 10/07 | PT2-2: Related Work | |
 | 10/12 | **Fall Break** | |
 | 10/14 | [Pivot Checkpoint](/chapters/pivot_checkpoint/overview) | |
-| 10/19 | Approach | |
-| 10/21 | (continue) | HW5: Approach (W) |
+| 10/19 | [Approach](/chapters/approach/algorithms) | |
+| 10/21 | (continue) | [HW5: Approach](/chapters/approach/homework) (W) |
 | 10/26 | PT3-1: Approach | |
 | 10/28 | PT3-2: Approach | |
 | 11/02 | Experiments | |
