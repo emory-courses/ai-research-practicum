@@ -14,7 +14,7 @@ description: 'HW6: Experiments'
 
 ## Rubric
 
-* **Data Section** (1 point)
+* **Data Selection** (1 point)
   * Are the sources and choices of the datasets clearly explained and justified?
   * Is the data preprocessing pipeline well-documented (if any)?
   * Are the dataset characteristics adequately described?
@@ -31,8 +31,8 @@ description: 'HW6: Experiments'
   * Is the choice of each metric well-justified?
   * Are the limitations of the chosen metrics discussed (if any)?
 * **Experimental Settings** (1 point)
-  * Are the hyperparameters and implementation details fully specified?
-  * Is the hardware/software environment clearly described?
+  * Are the hyperparameters and implementation details fully specified (including the number of runs and random seeds)?
+  * Is the hardware/software environment (including framework versions) clearly described?
   * Are the experiments documented in a way that enables replication?
 * **Model Development** (1 point)
   * Is the model development process clearly documented?
@@ -42,6 +42,7 @@ description: 'HW6: Experiments'
   * Are the experimental results presented in well-formatted, readable tables?
   * Are all tables properly labeled with units and descriptions?
   * Are baseline as well as existing state-of-the-art comparisons included and clearly marked?
+  * Are significance tests and/or an ablation study provided where the claims require them?
 * **Result Interpretations** (2 points)
   * Are the key findings from the results clearly identified and explained?
   * Are the strengths and weaknesses of the results discussed?

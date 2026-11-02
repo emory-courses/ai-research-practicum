@@ -26,8 +26,8 @@ description: 'Fall 2026'
 | 10/21 | (continue) | [HW5: Approach](/chapters/approach/homework) (W) |
 | 10/26 | PT3-1: Approach | |
 | 10/28 | PT3-2: Approach | |
-| 11/02 | Experiments | |
-| 11/04 | (continue) | HW6: Experiments (W) |
+| 11/02 | [Experiments](/chapters/experiments/datasets) | |
+| 11/04 | (continue) | [HW6: Experiments](/chapters/experiments/homework) (W) |
 | 11/09 | Analysis | |
 | 11/11 | (continue) | |
 | 11/16 | PT4-1: Experiments & Analysis | |

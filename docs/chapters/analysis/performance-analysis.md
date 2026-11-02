@@ -5,7 +5,7 @@ description: 'This section gives a detailed analysis in performance.'
 
 # Performance Analysis
 
-Once you have shown the overall performance of your models in the [Experiments](/chapters/experiments/overview) section, you need to give a more detailed analysis.
+Once you have shown the overall performance of your models in the [Experiments](/chapters/experiments/datasets) section, you need to give a more detailed analysis.
 
 :::info
 You should consider any quantitative analysis not involving manual annotation in this section that can emphasize the significance of your novel approach. Qualitative analysis is provided in the [Error Analysis](/chapters/analysis/error-analysis) section.

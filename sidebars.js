@@ -81,9 +81,9 @@ const sidebars = {
       type: 'category',
       label: 'Experiments',
       items: [
-        'chapters/experiments/overview',
         'chapters/experiments/datasets',
         'chapters/experiments/models',
+        'chapters/experiments/metrics-and-settings',
         'chapters/experiments/results',
         'chapters/experiments/homework',
       ],

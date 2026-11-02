@@ -17,3 +17,5 @@ Here are a few papers presenting new datasets:
 
 * [Competence-Level Prediction and Resume & Job Description Matching Using Context-Aware Transformer Models](https://www.emorynlp.org/publications/emnlp-2020-li-et-al), Li et al., EMNLP 2020 (see Section 3).
 * [FriendsQA: Open-Domain Question Answering on TV Show Transcripts](https://www.emorynlp.org/publications/sigdial-2019-yang-and-choi?c=2015-2020), Yang and Choi, SIGDIAL, 2019 (see Section 3).
+
+Once the dataset is created, describe how it is used for evaluation (e.g., splits, statistics) in the [Experiments](/chapters/experiments/datasets) section.

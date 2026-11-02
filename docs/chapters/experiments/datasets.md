@@ -23,6 +23,16 @@ If it is a new dataset that you create, briefly mention it and reference the sec
 It is always better to experiment with multiple datasets to validate the generalizability of your approach.
 :::
 
+## Data Preprocessing
+
+If you preprocess the data (e.g., tokenization, filtering, deduplication, normalization), describe each step and the tools or scripts used so that others can reproduce the same input:
+
+> We tokenize the text using TOOL (CITATION) and remove instances longer than # tokens, which discards #% of the data.
+
+:::info
+If you follow the preprocessing of previous work, cite it. If you create your own dataset, describe the preprocessing in the [Data Creation](/chapters/approach/resources) section instead, and refer to it here.
+:::
+
 ## Data Split
 
 Your work is not comparable to previous work unless it uses the same data split. Indicate which previous work you follow to split the training, development, and evaluation sets:
@@ -38,7 +48,7 @@ While you are training, you should frequently check the performance of your mode
 :::
 
 :::info
-Once the training is done, your best model (on the development set) is tested on the evaluation set, and the results are reported in the paper.
+Once the training is done, your best model (on the development set) is tested on the evaluation set, and the results are reported in the paper. Never use the evaluation set to make any modeling decision (e.g., choosing hyper-parameters or checkpoints); otherwise, your results are no longer a fair estimate of how well the model generalizes.
 :::
 
 If a new dataset is used, you need to create your own split. If the dataset has:
@@ -52,7 +62,7 @@ It is important to create training, development, and evaluation sets that follow
 :::
 
 :::warning
-Cross-validation is typically used for development, and for evaluation. However, when the data is not sufficiently large, the evaluation set becomes too small, which can cause many variants in the model performance tested on the set. Thus, cross-validation is used to average out the variants.
+Cross-validation is typically used for development as well as for evaluation. However, when the data is not sufficiently large, the evaluation set becomes too small, which can cause high variance in the model performance tested on the set. Thus, cross-validation is used to average out the variance. The training, development, and evaluation sets must never overlap within a fold.
 :::
 
 Once you split the data, create a table describing the distribution and statistics of each set. This table should include all necessary statistics to help researchers understand your experimental results (e.g., how many entities per sentence for named entity recognition, how many questions per document for question answering).

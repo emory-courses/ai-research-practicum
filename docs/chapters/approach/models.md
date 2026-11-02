@@ -41,3 +41,5 @@ Would the following method be equivalent to the above method?
 :::
 
 An attention matrix $$A \in \mathbb{R}^{m \times n}$$ is multiplied by the embedding matrix $$E \in \mathbb{R}^{n \times d}$$ such that $$A \cdot E \rightarrow D \in \mathbb{R}^{m \times d}$$. Finally, $$D$$ gets fed into the decoder.
+
+The models you develop here are evaluated in the [Experiments](/chapters/experiments/models) section.

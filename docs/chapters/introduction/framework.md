@@ -88,7 +88,7 @@ What distinguishes "approach" from "method"? How do we differentiate between "ch
 
 ## Findings
 
-Specify the types of data and/or models used to evaluate your approach, explain the reasons for using them, and reference the [Experiments](/chapters/experiments/overview) section for detailed information on this aspect:
+Specify the types of data and/or models used to evaluate your approach, explain the reasons for using them, and reference the [Experiments](/chapters/experiments/datasets) section for detailed information on this aspect:
 
 > Our approach is evaluated on DATA with MODELS (Section #).
 
