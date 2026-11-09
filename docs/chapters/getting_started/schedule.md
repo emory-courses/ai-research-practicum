@@ -28,10 +28,10 @@ description: 'Fall 2026'
 | 10/28 | PT3-2: Approach | |
 | 11/02 | [Experiments](/chapters/experiments/datasets) | |
 | 11/04 | (continue) | [HW6: Experiments](/chapters/experiments/homework) (W) |
-| 11/09 | Analysis | |
+| 11/09 | [Analysis](/chapters/analysis/performance-analysis) | |
 | 11/11 | (continue) | |
 | 11/16 | PT4-1: Experiments & Analysis | |
-| 11/18 | PT4-2: Experiments & Analysis | HW7: Analysis (W) |
+| 11/18 | PT4-2: Experiments & Analysis | [HW7: Analysis](/chapters/analysis/homework) (W) |
 | 11/23 | Conclusion & Abstract | |
 | 11/25 | **Thanksgiving Recess** | |
 | 11/30 | Poster Preparation |  |

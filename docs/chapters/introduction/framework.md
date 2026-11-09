@@ -96,7 +96,7 @@ Specify the types of data and/or models used to evaluate your approach, explain 
 You may not want to mention the exact names of the datasets or models, but instead refer to their types to emphasize the generalizability of your work.
 :::
 
-Provide a high-level description of the primary findings from the analysis that offer supporting evidence for your hypothesis, and reference the [Analysis](/chapters/analysis/overview) section where a comprehensive breakdown of the results can be found:
+Provide a high-level description of the primary findings from the analysis that offer supporting evidence for your hypothesis, and reference the [Analysis](/chapters/analysis/performance-analysis) section where a comprehensive breakdown of the results can be found:
 
 > Our experiments show that FINDINGS (Section #).
 

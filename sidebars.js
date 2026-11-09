@@ -92,8 +92,8 @@ const sidebars = {
       type: 'category',
       label: 'Analysis',
       items: [
-        'chapters/analysis/overview',
         'chapters/analysis/performance-analysis',
+        'chapters/analysis/ablation-study',
         'chapters/analysis/error-analysis',
         'chapters/analysis/discussions',
         'chapters/analysis/homework',

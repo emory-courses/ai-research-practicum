@@ -1,16 +1,26 @@
 ---
 title: Error Analysis
-description: 'This section provides a qualitative error analysis.'
+description: 'This section provides a quantitative and qualitative error analysis.'
 ---
+
+import ErrorDemo from '@site/src/components/ErrorDemo';
 
 # Error Analysis
 
-It is important to understand what errors are produced by your model, how often those errors occur on which occasions, and what causes such errors. Error analysis should be done both quantitatively and qualitatively.
+Error analysis explains what your model gets wrong, how often, and why. It complements the [Performance Analysis](/chapters/analysis/performance-analysis) with manual inspection.
 
-1. Sample instances that your model makes errors for. Focus on data portions that your performance analysis has questions about.
-2. Categorize errors by analyzing them (manually) and pick signature examples.
-3. Provide distributions of the categorized errors in a figure (see below).
-4. Explain why the model makes certian errors with examples.
+1. **Sample** errors, focusing on the portions your performance analysis questions (e.g., a weak label or category).
+2. **Categorize** them manually and pick a signature example for each category.
+3. **Quantify** the distribution of categories in a figure.
+4. **Explain** each major category with an example and a cause:
+
+> The most frequent error is ERROR TYPE (#%), where the model fails to ASPECT, as in "EXAMPLE". It likely occurs because REASON.
+
+<ErrorDemo />
+
+:::tip
+For each category, say whether the error comes from the **model**, the **data** (e.g., annotation noise), or the **task** (e.g., inherently ambiguous input). Only model errors can be fixed by a better approach.
+:::
 
 <figure>
 <img src={require("/img/analysis/error-analysis.jpg").default} alt="Excerpted from Yang and Choi, SIGDIAL, 2019." />

@@ -62,7 +62,7 @@ Then, describe any key findings:
 
 > It is interesting that MODEL 2 shows better performance over MODEL 1 on DATASET 1 but the results are opposite on DATASET 2.
 
-Give an interpretation for each key finding (and indicate a specific subsection in the [Analysis](/chapters/analysis/overview) section where further analysis is provided):
+Give an interpretation for each key finding (and indicate a specific subsection in the [Analysis](/chapters/analysis/performance-analysis) section where further analysis is provided):
 
 > It is likely because METHOD works well for ASPECTS in DATASET 1, but not necessarily for ASPECTS in DATASET 2 (Section #.#).
 

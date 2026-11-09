@@ -14,11 +14,13 @@ description: 'HW7: Analysis'
 
 ## Rubric
 
-* **Performance Analysis** (4 points)
-  * Is there a comprehensive breakdown of model performance across different categories?
-  * Is there a comparative analysis with baseline, state-of-the-art, and your methods?
-  * Are there ablation studies to validate design choices?
+* **Performance Analysis** (3 points)
+  * Is there a comprehensive breakdown of model performance (e.g., by labels, categories, or speed) relevant to the task, compared against baseline, state-of-the-art, and your methods?
+  * Are the findings explained, not just reported?
   * Is the analysis supported by appropriate visualizations?
+* **Ablation Study** (2 points)
+  * Does each ablation isolate a single design choice?
+  * Do the ablations support the claims of the paper without duplicating the Experiments results?
 * **Error Analysis** (3 points)
   * Are the errors systematically categorized and analyzed?
   * Are specific error cases examined in detail?
