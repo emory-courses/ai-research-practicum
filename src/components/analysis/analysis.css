@@ -1,0 +1,46 @@
+.viz {
+  --viz-1: #2a78d6; --viz-2: #eb6834; --viz-3: #1baf7a; --viz-4: #eda100;
+  --viz-muted: var(--ifm-color-emphasis-500);
+  position: relative;
+  border: 1px solid var(--ifm-color-emphasis-300);
+  border-radius: 8px;
+  padding: 16px;
+  margin: 16px 0;
+  background: var(--ifm-background-color);
+}
+[data-theme='dark'] .viz { --viz-1: #3987e5; --viz-2: #d95926; --viz-3: #199e70; --viz-4: #c98500; }
+.viz-title { font-weight: 600; margin-bottom: 8px; }
+.viz-controls { display: flex; flex-wrap: wrap; gap: 16px; margin: 8px 0; font-size: 0.9rem; }
+.viz-legend { display: flex; flex-wrap: wrap; gap: 16px; margin: 8px 0; font-size: 0.85rem; }
+.viz-key { display: inline-block; width: 12px; height: 12px; border-radius: 2px; margin-right: 6px; vertical-align: -1px; }
+.viz svg { width: 100%; height: auto; display: block; }
+.viz svg text { fill: var(--ifm-font-color-base); font-size: 12px; }
+.viz svg .muted { fill: var(--ifm-color-emphasis-600); }
+.viz svg .grid { stroke: var(--ifm-color-emphasis-200); stroke-width: 1; }
+.viz-hit { fill: transparent; cursor: pointer; outline: none; }
+.viz-hit:hover, .viz-hit:focus { fill: var(--ifm-color-emphasis-200); opacity: 0.5; }
+.viz-tip {
+  position: absolute; pointer-events: none; z-index: 5; min-width: 150px;
+  background: var(--ifm-background-surface-color); color: var(--ifm-font-color-base);
+  border: 1px solid var(--ifm-color-emphasis-300); border-radius: 6px;
+  padding: 8px 10px; font-size: 0.8rem; box-shadow: 0 2px 8px rgba(0,0,0,0.15);
+}
+.viz-tip strong { font-size: 0.9rem; }
+.viz-tip .row { display: flex; justify-content: space-between; gap: 12px; }
+.viz-tip .line { display: inline-block; width: 12px; height: 2px; margin-right: 6px; vertical-align: middle; }
+.viz details { margin-top: 8px; font-size: 0.85rem; }
+.viz details table { margin-top: 8px; display: table; width: auto; }
+.viz-note { font-size: 0.85rem; color: var(--ifm-color-emphasis-700); margin-top: 8px; }
+.viz-grid { display: grid; gap: 2px; font-size: 0.8rem; }
+.viz-cell { display: flex; align-items: center; justify-content: center; min-height: 34px; border-radius: 3px; cursor: default; outline: none; }
+.viz-cell:hover, .viz-cell:focus { box-shadow: 0 0 0 2px var(--ifm-font-color-base); }
+.viz-head { display: flex; align-items: center; justify-content: center; text-align: center; color: var(--ifm-color-emphasis-700); font-size: 0.75rem; }
+.viz-bar { display: flex; align-items: center; gap: 8px; margin: 4px 0; cursor: pointer; outline: none; }
+.viz-bar:hover .fill, .viz-bar:focus .fill { filter: brightness(1.15); }
+.viz-chip { font-size: 0.7rem; border: 1px solid var(--ifm-color-emphasis-400); border-radius: 10px; padding: 0 6px; color: var(--ifm-color-emphasis-700); }
+.viz-pie { display: flex; flex-wrap: wrap; align-items: center; gap: 24px; }
+.viz-pie svg { width: 220px; flex: none; }
+.viz-pie .slice { cursor: pointer; outline: none; transition: transform 0.15s; }
+.viz-pie .slice:hover, .viz-pie .slice:focus { filter: brightness(1.12); }
+.viz-slice-row { display: flex; align-items: center; gap: 8px; margin: 4px 0; cursor: pointer; outline: none; font-size: 0.85rem; padding: 2px 4px; border-radius: 4px; }
+.viz-slice-row[aria-pressed='true'] { background: var(--ifm-color-emphasis-200); }

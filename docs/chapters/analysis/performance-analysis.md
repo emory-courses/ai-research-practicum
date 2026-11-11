@@ -3,71 +3,60 @@ title: Performance Analysis
 description: 'This section gives a detailed analysis in performance.'
 ---
 
+import {LabelAnalysis, ConfusionMatrix, CategoryAnalysis, SpeedAnalysis} from '@site/src/components/analysis';
+
 # Performance Analysis
 
-Once you have shown the overall performance of your models in the [Results](/chapters/experiments/results) section, you need to give a more detailed analysis. The aim of the Analysis section is to provide an in-depth look at what your models can and cannot do, so that researchers can make informed decisions in their next steps and in applications.
+Once you have shown the overall performance in the [Results](/chapters/experiments/results) section, give a more detailed analysis that explains *where* and *why* your models differ. The aim of the Analysis section is to show what your models can and cannot do, so that researchers can make informed decisions in their next steps and in applications.
 
 :::info
-You should consider any quantitative analysis not involving manual annotation in this section that can emphasize the significance of your novel approach. Qualitative analysis is provided in the [Error Analysis](/chapters/analysis/error-analysis) section.
+Include any quantitative analysis that does not involve manual annotation. Qualitative analysis goes in the [Error Analysis](/chapters/analysis/error-analysis) section.
 :::
 
-Start by stating which questions the analysis answers, and refer back to the key findings in the [Interpretations](/chapters/experiments/results):
+:::note Running example
+All figures in this chapter use one example: **intent classification on customer-support messages** with three LLM-based models, following the incremental design in [Models](/chapters/experiments/models).
 
-> To better understand why MODEL 2 outperforms MODEL 1 on DATASET 1 but not on DATASET 2, we analyze the results by labels (Section #.#), categories (Section #.#), and speed (Section #.#).
+* ZERO-SHOT: a prompted LLM.
+* FEW-SHOT: ZERO-SHOT + retrieved examples in the prompt.
+* FINE-TUNED: FEW-SHOT + LoRA fine-tuning.
+
+The numbers are illustrative; use your own.
+:::
+
+Start by stating which questions the analysis answers:
+
+> To understand where FINE-TUNED improves over ZERO-SHOT, we analyze the results by labels (Section #.#), input categories (Section #.#), and speed (Section #.#).
 
 ## By Labels
 
-If your task involves multi-class classification, it is good to show how your model performs for each label. Label distributions play an important role in this analysis because most machine learning algorithms tend not to perform well for labels with small distributions. Once you present the table, explain why your model does not perform well on certain labels:
+For multi-class tasks, show the score of each label together with its distribution. Most models, including LLMs, perform worse on rare labels, so explain any label that stands out:
 
-> MODEL performs poorly on LABEL, which accounts for only #% of the training data.
+> All models perform worst on LABEL, which accounts for only #% of the training data.
 
-<figure>
-<img src={require("/img/analysis/label-analysis.jpg").default} alt="Excerpted from Vaidya et al., LAW, 2011." />
-<figcaption>Excerpted from Vaidya et al., LAW, 2011.</figcaption>
-</figure>
+<LabelAnalysis />
 
-:::info
-Although the above example shows results from one model, it is better to show results from multiple models in comparisons.
-:::
-
-Label analysis can be presented by a confusion matrix if certain pairs of labels are getting confused more often than the others. Once you present the matrix, explain why certain labels are confused more than the others:
+Show every model, not only the best one. If some pairs of labels are confused more often than others, add a confusion matrix and explain the pairs:
 
 > LABEL 1 is often confused with LABEL 2 (#%) because REASON(S).
 
-<figure>
-<img src={require("/img/analysis/confusion-matrix.jpg").default} alt="Excerpted from Li et al., EMNLP, 2020." />
-<figcaption>Excerpted from Li et al., EMNLP, 2020.</figcaption>
-</figure>
+<ConfusionMatrix />
 
 ## By Categories
 
-If your data can be categorized into meaningful groups (e.g., challenging input, complex output), then provide the model performance on each category and explain why your models perform well (or not well) on certain groups:
+If your data forms meaningful groups (e.g., challenging inputs or complex outputs), report the score of each group and explain where each model is strong or weak:
 
-> MODEL 2 shows the largest gain over MODEL 1 on CATEGORY, suggesting that METHOD is effective for ASPECT.
+> FINE-TUNED shows the smallest gain on CATEGORY, suggesting that METHOD does not help with ASPECT.
 
-<figure>
-<img src={require("/img/analysis/category-analysis.jpg").default} alt="Excerpted from He and Choi, IWPT, 2021." />
-<figcaption>Excerpted from He and Choi, IWPT, 2021.</figcaption>
-</figure>
+<CategoryAnalysis />
 
 ## Speed Analysis
 
-If the model speed is one of your contributions, group data with respect to different sizes and explain for which groups your model shows strength. The speed should be adequately profiled by making sure it is not interrupted by other processes.
+If speed or cost is one of your contributions, group the data by input size and report latency (or throughput, or cost per request) for each model:
 
-<figure>
-<img src={require("/img/analysis/speed-analysis.jpg").default} alt="Excerpted from Choi and Palmer, ACL, 2011." />
-<figcaption>Excerpted from Choi and Palmer, ACL, 2011.</figcaption>
-</figure>
+> FINE-TUNED is #x faster than FEW-SHOT on inputs of # tokens because MODEL is smaller and needs no retrieved examples in the prompt.
 
-:::info
-You should measure the speed multiple times, remove outliers, and present the average speeds to ensure the robustness.
+<SpeedAnalysis />
+
+:::tip
+Measure several times after a warm-up, report the median (and a tail percentile such as p95), and make sure no other process interferes. For API-based models, state the date and the model version since both change over time.
 :::
-
-If the model speed can be measured theoretically by counting involved operations, show the plots and explain the overall trend:
-
-> MODEL 2 runs #x faster than MODEL 1 on inputs longer than # tokens, as its complexity is linear rather than quadratic in the input length.
-
-<figure>
-<img src={require("/img/analysis/transition-analysis.jpg").default} alt="Excerpted from Choi and McCallum, ACL, 2013." />
-<figcaption>Excerpted from Choi and McCallum, ACL, 2013.</figcaption>
-</figure>
