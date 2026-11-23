@@ -1,5 +1,6 @@
 ---
 title: Conclusion
+description: 'This section summarizes the contributions and outlines the next steps of this research.'
 ---
 
 # Conclusion

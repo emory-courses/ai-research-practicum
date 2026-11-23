@@ -32,10 +32,10 @@ description: 'Fall 2026'
 | 11/11 | (continue) | |
 | 11/16 | PT4-1: Experiments & Analysis | |
 | 11/18 | PT4-2: Experiments & Analysis | [HW7: Analysis](/chapters/analysis/homework) (W) |
-| 11/23 | Conclusion & Abstract | |
+| 11/23 | [Conclusion & Abstract](/chapters/conclusion_and_abstract/conclusion) | |
 | 11/25 | **Thanksgiving Recess** | |
 | 11/30 | Poster Preparation |  |
-| 12/02 | Peer Review | HW8: Conclusion & Abstract (W) |
+| 12/02 | Peer Review | [HW8: Conclusion & Abstract](/chapters/conclusion_and_abstract/homework) (W) |
 | 12/07 | Poster Presentations 1 | |
 | 12/09 | Poster Presentations 2 | HW9: Peer Review |
 | 12/16 | Research Paper Due (no class) | |

@@ -103,7 +103,6 @@ const sidebars = {
       type: 'category',
       label: 'Conclusion & Abstract',
       items: [
-        'chapters/conclusion_and_abstract/overview',
         'chapters/conclusion_and_abstract/conclusion',
         'chapters/conclusion_and_abstract/title-and-abstract',
         'chapters/conclusion_and_abstract/homework',

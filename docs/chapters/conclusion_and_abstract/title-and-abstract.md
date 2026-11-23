@@ -1,5 +1,6 @@
 ---
 title: 'Title & Abstract'
+description: 'This section guides you how to write the title and the abstract.'
 ---
 
 # Title & Abstract
